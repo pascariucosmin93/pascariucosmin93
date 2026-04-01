@@ -1,6 +1,6 @@
 # Cosmin Pascariu — DevOps / Platform Engineer
 
-Mid-level DevOps engineer with ~5 years of experience building and operating Kubernetes-based platforms, both on bare-metal and in the cloud. I focus on infrastructure-as-code, GitOps workflows, and scalable CI/CD pipelines.
+Mid-level DevOps engineer with ~4 years of experience building and operating Kubernetes-based platforms, both on bare-metal and in the cloud. I focus on infrastructure-as-code, GitOps workflows, and scalable CI/CD pipelines.
 
 📍 Iași, România — open to remote
 
