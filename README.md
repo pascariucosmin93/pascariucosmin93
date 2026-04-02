@@ -35,8 +35,10 @@ Mid-level DevOps engineer with ~4 years of experience building and operating Kub
 | Repo | What it is |
 |------|------------|
 | [infrastructure-overview](https://github.com/pascariucosmin93/infrastructure-overview) | Architecture overview of the full homelab and cloud stack — Mermaid diagrams, component inventory |
+| [argocd-apps](https://github.com/pascariucosmin93/argocd-apps) | App-of-apps GitOps repo — one `kubectl apply` bootstraps the entire cluster via sync waves |
 | [secrets-management](https://github.com/pascariucosmin93/secrets-management) | Vault HA (Raft, 3 replicas) + ESO + Sealed Secrets + cert-manager — full GitOps secrets pipeline |
 | [monitoring-stack](https://github.com/pascariucosmin93/monitoring-stack) | Prometheus + Grafana + Loki + Alloy deployed via Argo CD, with Grafana alerting to Discord |
+| [dasboard-kube](https://github.com/pascariucosmin93/dasboard-kube) | Grafana dashboards as code — Cilium BGP Control Plane, Kubernetes Cluster Status, provisioned via Kustomize |
 | [k8s-network-policies](https://github.com/pascariucosmin93/k8s-network-policies) | Cilium NetworkPolicies for the homelab cluster — includes fixes for kube-proxy-replacement mode |
 | [vm-bootstrap-ansible](https://github.com/pascariucosmin93/vm-bootstrap-ansible) | Ansible roles for VM provisioning — common, bootstrap, hardening (SSH, fail2ban, sysctl, auditd) |
 | [k8s-networking](https://github.com/pascariucosmin93/k8s-networking) | Bare-metal K8s networking — Cilium BGP, Gateway API, FRR, no MetalLB |
