@@ -64,4 +64,4 @@ Mid-level DevOps engineer with ~4 years of experience building and operating Kub
 
 ## Contact
 
-**CV:** [cv.cosmin-lab.com](https://cv.cosmin-lab.com)
+**CV:** [cosmin-lab.com](https://cosmin-lab.com)
