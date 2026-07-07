@@ -26,6 +26,9 @@ Mid-level DevOps engineer with ~4 years of experience building and operating Kub
 **Storage & Networking**
 `SeaweedFS` `S3-compatible storage` `HAProxy` `FRR` `BGP` `Cloudflare`
 
+**Data & Messaging**
+`PostgreSQL` `Redis` `Kafka`
+
 ---
 
 ## Projects
@@ -55,8 +58,14 @@ Mid-level DevOps engineer with ~4 years of experience building and operating Kub
 
 | Repo | What it is |
 |------|------------|
+| [magazon](https://github.com/pascariucosmin93/magazon) | Microshop e-commerce platform — FastAPI microservices (auth, product, cart, order, inventory, payment), PostgreSQL, Redis, Kafka, deployed on Kubernetes with Helm |
+| [magazon-gitops](https://github.com/pascariucosmin93/magazon-gitops) | GitOps state (Argo CD) for the Magazon production deployment |
 | [calculatorgaz](https://github.com/pascariucosmin93/calculatorgaz) | Multi-service gas price platform — Next.js, PostgreSQL, OCR microservice, deployed on K8s via Argo CD |
 | [gaz-gitops](https://github.com/pascariucosmin93/gaz-gitops) | GitOps manifests for the gaz platform — Helm charts, image tags auto-updated by CI |
+| [passwd](https://github.com/pascariucosmin93/passwd) | Self-hosted password manager (Vaultwarden) deployed on Kubernetes via Argo CD |
+| [imchi](https://github.com/pascariucosmin93/imchi) | Immich (self-hosted photo/video backup) deployed on Kubernetes via Argo CD |
+| [ddos-cloudflare](https://github.com/pascariucosmin93/ddos-cloudflare) | DDoS protection agent for Kubernetes — Loki traffic signals, auto-blocking via Cloudflare or Cilium |
+| [discord-boot](https://github.com/pascariucosmin93/discord-boot) | Discord bot for Kubernetes cluster control — pods, logs, restart/scale via slash commands |
 | [s3-auto](https://github.com/pascariucosmin93/s3-auto) | Terraform automation for on-prem S3-compatible storage with SeaweedFS on Proxmox |
 | [cv-website](https://github.com/pascariucosmin93/cv-website) | Personal CV site — Nginx, Docker, GHCR, deployed via Argo CD with Trivy scanning |
 
